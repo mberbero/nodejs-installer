@@ -8,3 +8,6 @@ curl -fsSL https://raw.githubusercontent.com/mberbero/nodejs-installer/main/v12.
 ```
 curl -fsSL https://raw.githubusercontent.com/mberbero/nodejs-installer/main/v14.sh | sh
 ```
+```
+curl -fsSL https://raw.githubusercontent.com/mberbero/nodejs-installer/main/v16.sh | sh
+```
